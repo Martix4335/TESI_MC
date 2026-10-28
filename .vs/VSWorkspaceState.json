@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
+    "\\DATA",
     "\\PLOTS"
   ],
-  "SelectedNode": "\\PLOTS\\GraficiSetUp.py",
+  "SelectedNode": "\\DATA\\CH2.csv",
   "PreviewInSolutionExplorer": false
 }

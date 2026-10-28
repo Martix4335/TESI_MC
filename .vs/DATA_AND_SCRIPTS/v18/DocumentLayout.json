@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\GraficiFit.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLOTS\\GraficiFit.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\GraficiSetUp.py||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLOTS\\GraficiSetUp.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\Graph.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PLOTS\\Graph.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GraficiFit.py",
+              "DocumentMoniker": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\GraficiFit.py",
+              "RelativeDocumentMoniker": "PLOTS\\GraficiFit.py",
+              "ToolTip": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\GraficiFit.py",
+              "RelativeToolTip": "PLOTS\\GraficiFit.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2026-10-28T13:09:18.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GraficiSetUp.py",
               "DocumentMoniker": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\GraficiSetUp.py",
               "RelativeDocumentMoniker": "PLOTS\\GraficiSetUp.py",
               "ToolTip": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\GraficiSetUp.py",
               "RelativeToolTip": "PLOTS\\GraficiSetUp.py",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
               "WhenOpened": "2026-10-26T16:00:29.566Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.png",
+              "DocumentMoniker": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\Graph.png",
+              "RelativeDocumentMoniker": "PLOTS\\Graph.png",
+              "ToolTip": "D:\\Tor Vergata\\TRIENNALE\\TESI\\DATA_AND_SCRIPTS\\PLOTS\\Graph.png",
+              "RelativeToolTip": "PLOTS\\Graph.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-26T16:00:25.933Z"
             }
           ]
         }
