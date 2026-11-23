@@ -1,5 +1,4 @@
-Cleaned version of precedent repository: romoved possible sensible data
-
+Cleaned version of precedent repository
 Version History:
 
 - V1.0: Initial commit
