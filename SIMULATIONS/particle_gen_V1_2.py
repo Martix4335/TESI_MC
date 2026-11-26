@@ -4,14 +4,14 @@ import numpy as np
 ### General Variables ###
 #########################
 
-x_sim_max=20  #cm
-y_sim_max=13.33 #cm
+x_sim_max=16  #cm
+y_sim_max=11 #cm
 x_max=15 #cm
 y_max=10 #cm
-h=40 #simulation plane's height in cm
-h1=30 #hight of the first scintillator in cm
-h2=-30 #hight of the second scintillator in cm
-size=10000
+h=70.5 #simulation plane's height in cm
+h1=69.5 #hight of the first scintillator in cm
+h2=0 #hight of the second scintillator in cm
+size=14080
 
 ##################
 ### Functions  ###
